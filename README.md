@@ -1,6 +1,6 @@
 # Company Brochure Generator
 
-An AI-powered tool that automatically generates a professional brochure for any company by analyzing its website. Simply provide the landing page URL, and the script does the rest.
+An AI-powered tool that automatically generates a professional brochure for any company by analyzing its website. Simply provide the landing page URL, and the script does the rest.<br>
 Requirements
 
 To use this tool, you will need:
